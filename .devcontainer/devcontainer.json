@@ -25,5 +25,8 @@
                 "VisualStudioExptTeam.vscodeintellicode"
             ]
         }
+    },
+    "hostRequirements": {
+        "gpu": "optional" 
     }
 }
